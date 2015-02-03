@@ -1,0 +1,33 @@
+{
+  "name": "grunt-gitbook-install",
+  "version": "1.0.0",
+  "description": "Grunt task for installing GitBook plugins",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tzmartin/grunt-gitbook-install.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "gitbook",
+    "plugin"
+  ],
+  "author": "TZ Martin <martin@semanticpress.com> (http://semanticpress.com/)",
+  "license": "Apache 2",
+  "dependencies": {
+      "gitbook": "1.5.0"
+  },
+  "devDependencies": {
+      "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+      "grunt": "~0.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/tzmartin/grunt-gitbook-install/issues"
+  },
+  "homepage": "https://github.com/tzmartin/grunt-gitbook-install"
+}
