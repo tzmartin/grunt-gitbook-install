@@ -18,13 +18,13 @@
   "author": "TZ Martin <martin@semanticpress.com> (http://semanticpress.com/)",
   "license": "Apache 2",
   "dependencies": {
-      "gitbook": "1.5.0"
+    "gitbook": "1.5.0"
   },
   "devDependencies": {
-      "grunt": "~0.4.1"
+    "grunt": "~0.4.1"
   },
   "peerDependencies": {
-      "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "bugs": {
     "url": "https://github.com/tzmartin/grunt-gitbook-install/issues"
